@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{FC69F647-7B39-0E1A-8D73-427CC7B1B966}") = "BaicTiledGraphGAME", "Assembly-CSharp.csproj", "{4C69EBEE-0B32-0336-C341-76D747B062FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C69EBEE-0B32-0336-C341-76D747B062FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C69EBEE-0B32-0336-C341-76D747B062FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C69EBEE-0B32-0336-C341-76D747B062FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C69EBEE-0B32-0336-C341-76D747B062FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
