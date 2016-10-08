@@ -1,0 +1,17 @@
+/Users/busson/BasicTiledGame/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/busson/BasicTiledGame/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/busson/BasicTiledGame/obj/Debug/Assembly-CSharp.dll
+/Users/busson/BasicTiledGame/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/busson/BasicTiledGame/Temp/bin/Debug/UnityEngine.dll
+/Users/busson/BasicTiledGame/Temp/bin/Debug/UnityEditor.dll
+/Users/busson/BasicTiledGame/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/busson/BasicTiledGame/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/busson/BasicTiledGame/Temp/bin/Debug/Mono.Cecil.dll
+/Users/busson/BasicTiledGame/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/busson/BasicTiledGame/Temp/bin/Debug/Unity.DataContract.dll
+/Users/busson/BasicTiledGame/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/busson/BasicTiledGame/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/busson/BasicTiledGame/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/busson/BasicTiledGame/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/busson/BasicTiledGame/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/busson/BasicTiledGame/Temp/bin/Debug/Mono.Cecil.Mdb.dll
